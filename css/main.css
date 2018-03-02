@@ -1,9 +1,4 @@
 /**
- * ===================================================================
- *
- *  Kards v1.0 Main Stylesheet
- *  url: styleshout.com
- *  03-01-2016
  *  ------------------------------------------------------------------
  *  TOC:
  *  01. webfonts and iconfonts
@@ -2594,6 +2589,15 @@ footer .copyright span:last-child::after {
 }
 #go-top a:hover {
 	background: #000000;
+}
+
+i {
+  font-size: 5rem
+}
+
+ul.devi {
+  list-style-type: none;
+  text-align: center;
 }
 
 /*# sourceMappingURL=main.css.map */
