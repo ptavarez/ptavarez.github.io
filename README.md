@@ -1,11 +1,25 @@
-### ReadMe
+### Pedro Tavarez
+ I'm a fresh University of Massachusetts Lowell graduate who is motivated and excited to start his career. My formal graduation took place 5 months after my last semester at UML. In the meantime, I decided to keep myself busy by attending General Assembly. I took part in their web development immersive program, and I must say, it was one of the best decisions I ever made!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor dignissim convallis aenean et. Cras sed felis eget velit aliquet. Cras ornare arcu dui vivamus. Porttitor leo a diam sollicitudin. Tempus urna et pharetra pharetra. Dolor morbi non arcu risus quis varius quam quisque. Et tortor consequat id porta nibh. Enim ut tellus elementum sagittis vitae et. Consequat nisl vel pretium lectus quam id leo in. Donec ultrices tincidunt arcu non sodales neque sodales ut. Ullamcorper morbi tincidunt ornare massa. Orci dapibus ultrices in iaculis nunc sed augue. Sed vulputate mi sit amet mauris commodo. Cursus mattis molestie a iaculis. Lobortis elementum nibh tellus molestie. Augue eget arcu dictum varius duis at. Rhoncus est pellentesque elit ullamcorper. Sapien faucibus et molestie ac feugiat. Imperdiet proin fermentum leo vel orci porta non.
+## Profile
+At UML, I was a Criminology and Justice Studies major with a minor in Business and Concentration in Information and Technology. It was there that I learned how to create simple webpages with HTML and CSS, but I wanted to learn more. This led to my decision to take part in GA's web development program.
 
-Aliquam ut porttitor leo a diam sollicitudin. Quam id leo in vitae. Arcu bibendum at varius vel pharetra. At risus viverra adipiscing at. Nam at lectus urna duis convallis convallis. Cursus metus aliquam eleifend mi in nulla posuere sollicitudin. Nisl vel pretium lectus quam id leo in vitae. Eget magna fermentum iaculis eu non diam phasellus vestibulum. Sed vulputate odio ut enim blandit volutpat. Montes nascetur ridiculus mus mauris vitae ultricies leo integer. Vitae purus faucibus ornare suspendisse sed. Neque volutpat ac tincidunt vitae semper quis lectus nulla. Sed euismod nisi porta lorem mollis aliquam ut porttitor leo. Morbi tincidunt ornare massa eget egestas purus viverra accumsan in. Massa placerat duis ultricies lacus sed turpis tincidunt. Sit amet aliquam id diam maecenas ultricies. Adipiscing tristique risus nec feugiat in fermentum posuere urna nec. Mi sit amet mauris commodo.
+## Skills
+- HTML5
+- CSS
+- Sass
+- JavaScript
+- Ruby
+- Ruby on Rails
+- jQuery
+- Ember
+- React.js
+- Bootstrap
+- Grunt
+- Gimp
 
-Imperdiet sed euismod nisi porta lorem. In fermentum posuere urna nec tincidunt praesent semper. Quam vulputate dignissim suspendisse in est ante in nibh. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Integer feugiat scelerisque varius morbi enim nunc faucibus. Viverra aliquet eget sit amet. Ultricies mi eget mauris pharetra et ultrices neque ornare. Donec massa sapien faucibus et molestie ac. Lobortis feugiat vivamus at augue eget arcu. Integer feugiat scelerisque varius morbi enim nunc faucibus. Sit amet risus nullam eget felis eget nunc. A cras semper auctor neque vitae tempus quam pellentesque nec. Lobortis elementum nibh tellus molestie. Ut morbi tincidunt augue interdum velit.
-
-Ut placerat orci nulla pellentesque dignissim enim sit amet venenatis. Morbi tristique senectus et netus et malesuada fames ac. Viverra justo nec ultrices dui sapien eget. Augue ut lectus arcu bibendum at varius. Habitant morbi tristique senectus et. Aliquet nec ullamcorper sit amet risus nullam eget felis. Lorem mollis aliquam ut porttitor leo. Dui faucibus in ornare quam. Nunc lobortis mattis aliquam faucibus purus. Eu lobortis elementum nibh tellus molestie. Felis bibendum ut tristique et egestas quis ipsum suspendisse. Convallis tellus id interdum velit laoreet id donec.
-
-Egestas maecenas pharetra convallis posuere morbi leo urna molestie. Amet consectetur adipiscing elit duis tristique sollicitudin nibh sit. Dictum fusce ut placerat orci nulla pellentesque dignissim. Est velit egestas dui id. Urna id volutpat lacus laoreet. Nulla facilisi nullam vehicula ipsum a. Velit euismod in pellentesque massa placerat. Amet luctus venenatis lectus magna fringilla urna. Ornare massa eget egestas purus viverra. Vel turpis nunc eget lorem dolor sed viverra ipsum. Ut placerat orci nulla pellentesque dignissim enim. Et molestie ac feugiat sed lectus. Consequat nisl vel pretium lectus. Non pulvinar neque laoreet suspendisse interdum.
+## Projects
+- Tic-Tac-Dro ![Tic-Tac-Dro](https://pedrotavarez.com/tic_tac_dro_project/)
+- Rank It Up ![Rank-It-Up](https://pedrotavarez.com/rank-it-up/)
+- Raindrop ![Raindrop](https://raindropandwee.github.io/rain…)
+- Project 4 (coming soon)
