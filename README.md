@@ -40,8 +40,8 @@ I did more than just hit the books during my undergrad at UML. I spent some time
 ### Work Experience
 
 #### Merrimack Valley Housing Partnership
-###### Marketing and IT Support Associate
-January 2016 - January 2018
+##### Marketing and IT Support Associate
+###### January 2016 - January 2018
 
 
 The Merrimack Valley Housing Partnership is a non-profit organization that provides home ownership education to first time home buyers.
@@ -52,8 +52,8 @@ At MVHP, I was helped the team complete their daily tasks. My responsibilities i
 - Assisting with any IT issues encountered and improve spreadsheets
 
 #### Dashed
-###### Dispatcher
-July 2015 - October 2017
+##### Dispatcher
+###### July 2015 - October 2017
 
 DASHED was a restaurant delivery startup that was acquired by GrubHub in their Foodler deal. Operating through phone applications similar to Uber, the startup provided rapid delivery for over 800 restaurants that did not have their own delivery services.
 At DASHED, I was a dispatcher tasked with:
@@ -66,15 +66,15 @@ At DASHED, I was a dispatcher tasked with:
 ### Education
 
 #### University of Massachusetts Lowell
-###### Bachelor of Science
-September 2013 - May 2018
+##### Bachelor of Science
+###### September 2013 - May 2018
 
 At UML, I majored in Criminology and Justice Studies with a minor in Business and Concentration in Information and Technology.
 I earned a GPA of 3.411 by being diligent with my studies, always showing up to class, and participating in class discussions.
 
 #### General Assembly
-###### Full Stack Web Development Immersive
-January 2018 - April 2018
+##### Full Stack Web Development Immersive
+###### January 2018 - April 2018
 
 GA’s WDI program is a 12 week, 600+ hour Full-Stack Web Development boot camp. GA covers a wide range of technologies and frameworks.
 
