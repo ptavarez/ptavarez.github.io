@@ -39,12 +39,25 @@ I did more than just hit the books during my undergrad at UML. I spent some time
 
 ### Work Experience
 
+#### FEMA
+##### Project Delivery Manager
+###### July 2018 - November 2018
+FEMA's primary purpose is to coordinate the response to a disaster that has occurred in the United States that overwhelms the resources of local and state authorities.
+
+As a Project Delivery Manager (PDMG), I am tasked to:
+- Manage the process of public assistant grant delivery to individual applicants
+- Ensure program delivery in a timely manner that meets the applicants recovery priorities
+- Assist applicants with documentation requirements
+- Evaluate and make recommendations to FEMA as to whether the claim is eligible
+
+
 #### Merrimack Valley Housing Partnership
 ##### Marketing and IT Support Associate
 ###### January 2016 - January 2018
 
 
 The Merrimack Valley Housing Partnership is a non-profit organization that provides home ownership education to first time home buyers.
+
 At MVHP, I was helped the team complete their daily tasks. My responsibilities included:
 - Interviewing new home buyers to write short biographies used in their monthly newsletter
 - Maintaining and improving MVHP's social media presence
@@ -56,6 +69,7 @@ At MVHP, I was helped the team complete their daily tasks. My responsibilities i
 ###### July 2015 - October 2017
 
 DASHED was a restaurant delivery startup that was acquired by GrubHub in their Foodler deal. Operating through phone applications similar to Uber, the startup provided rapid delivery for over 800 restaurants that did not have their own delivery services.
+
 At DASHED, I was a dispatcher tasked with:
 - Supervising a team of customer service representatives
 - Ensuring orders are delivered within a promised time frame
